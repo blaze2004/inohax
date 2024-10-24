@@ -14,12 +14,12 @@ export default function ThemeAndPrizes() {
     {
       icon: <Shirt className="w-12 h-12 text-primary" />,
       title: "T-Shirts",
-      description: "Exclusive Inohax t-shirts for all participants",
+      description: "T-shirts from our parrtners",
     },
     {
       icon: <Users className="w-12 h-12 text-green-400" />,
-      title: "Swag Kits",
-      description: "Cool swag items for every participant",
+      title: "Inovact Reward Points",
+      description: "Earn points for participating and winning in the Inovact Social app",
     },
   ];
 
