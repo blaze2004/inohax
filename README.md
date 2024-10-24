@@ -1,1 +1,3 @@
-# inohax
+# Inohax
+
+Inovact Flagship hackathon
