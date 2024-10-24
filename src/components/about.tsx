@@ -11,26 +11,26 @@ export default function About() {
       icon: <Zap className="w-8 h-8 text-primary" />,
       title: "Powered by Proof of Work",
       description:
-        "Flex your skills and earn some serious street cred through proof of work."
+        "Flex your skills and earn some serious street cred through proof of work.",
     },
     {
       icon: <Users className="w-8 h-8 text-cyan-400" />,
       title: "Connect",
       description:
-        "Network with like-minded students and entrepreneurs from diverse backgrounds."
+        "Network with like-minded students and entrepreneurs from diverse backgrounds.",
     },
     {
       icon: <Lightbulb className="w-8 h-8 text-primary" />,
       title: "Innovate",
       description:
-        "Collaborate on cutting-edge projects and bring your ideas to life."
+        "Collaborate on cutting-edge projects and bring your ideas to life.",
     },
     {
       icon: <Trophy className="w-8 h-8 text-cyan-400" />,
       title: "Achieve",
       description:
-        "Showcase your skills and win prizes in our flagship hackathon."
-    }
+        "Showcase your skills and win prizes in our flagship hackathon.",
+    },
   ];
 
   return (

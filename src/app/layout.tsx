@@ -15,7 +15,8 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Inohax 1.0 - Inovact Social Flagship Hackathon",
-  description: "A 24 hours Online Open Innovation Hackathon for Students & Entrepreneurs",
+  description:
+    "A 24 hours Online Open Innovation Hackathon for Students & Entrepreneurs",
 };
 
 export default function RootLayout({

@@ -106,7 +106,9 @@ export default function Schedule() {
                         <h4 className="text-xl font-semibold mb-2 text-cyan-400">
                           {day.event}
                         </h4>
-                        <p className="text-muted-foreground">{day.description}</p>
+                        <p className="text-muted-foreground">
+                          {day.description}
+                        </p>
                       </>
                     ) : (
                       <div className="space-y-4">

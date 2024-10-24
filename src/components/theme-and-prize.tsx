@@ -9,18 +9,18 @@ export default function ThemeAndPrizes() {
     {
       icon: <Trophy className="w-12 h-12 text-yellow-400" />,
       title: "Grand Prize",
-      description: "INR 10,000 for the winning team"
+      description: "INR 10,000 for the winning team",
     },
     {
       icon: <Shirt className="w-12 h-12 text-primary" />,
       title: "T-Shirts",
-      description: "Exclusive Inohax t-shirts for all participants"
+      description: "Exclusive Inohax t-shirts for all participants",
     },
     {
       icon: <Users className="w-12 h-12 text-green-400" />,
       title: "Swag Kits",
-      description: "Cool swag items for every participant"
-    }
+      description: "Cool swag items for every participant",
+    },
   ];
 
   return (
